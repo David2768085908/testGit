@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello 222!" );
         System.out.println( "Hello 111" );
+        System.out.println( "hot fix" );
     }
 }
